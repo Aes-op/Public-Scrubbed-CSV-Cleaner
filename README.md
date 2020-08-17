@@ -8,7 +8,7 @@ WARNINGS:
 
 FURTHER WARNINGS IN THE README WILL BE CONTAINED IN {}
 
-This is a Python ver 3.7 script designed to clean exported "-" .csv files for "Company".
+This is a Python ver 3.7 script designed to clean exported "type of file" .csv files for "Company".
 
 The flow of this script is as follows:
   - Opens the .csv file
